@@ -1,0 +1,15 @@
+{
+  "name": "tears-automative-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Roblox group ranking and moderation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.6.1",
+    "noblox.js": "^6.0.5"
+  }
+}
